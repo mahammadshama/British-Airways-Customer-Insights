@@ -30,17 +30,18 @@ Positive Sentiment: 759 mentions
 
 Negative Sentiment: 422 mentions
 
-Neutral Sentiment: 19 mentions    
-✅ Topic Modeling (LDA): Identified key topics in customer feedback.    
+Neutral Sentiment: 19 mentions   
+
+✅ Topic Modeling (LDA): Identified key topics in customer feedback.     
 
 
 ### 🔹 Key Insights:
 
-Top Positive Words: flight, seat, service
+Top Positive Words: flight, seat, service   
 
-Top Negative Words: flight, seat, delays
+Top Negative Words: flight, seat, delays   
 
-Main Pain Points: Flight delays & seat comfort issues.
+Main Pain Points: Flight delays & seat comfort issues.   
 
 
 
@@ -50,17 +51,19 @@ Main Pain Points: Flight delays & seat comfort issues.
 
 **🔹 Dataset Overview:**
 
-Size: 50,000 rows, 14 columns
+Size: 50,000 rows, 14 columns   
 
-Key Features: num_passengers, trip_type, route, booking_origin, flight_duration, etc.
+Key Features: num_passengers, trip_type, route, booking_origin, flight_duration, etc.   
 
 
 **🔹 Data Processing & Feature Engineering:**
 
 ✅ Created new features:    
 
-is_weekend, booking time pattern, total extra services requested, popular flight routes, passenger count    
-✅ Handled categorical variables with label encoding & manual mapping.    
+- **is_weekend, booking time pattern, total extra services requested, popular flight routes, passenger count**.    
+
+✅ Handled categorical variables with label encoding & manual mapping.   
+
 ✅ Applied scaling & SMOTE for class balancing.    
 
 
@@ -74,7 +77,7 @@ is_weekend, booking time pattern, total extra services requested, popular flight
 
 **🔹 Key Insights:**
 
-📌 Top 5 Influencing Features:
+📌 Top 5 Influencing Features:   
 1️⃣ Booking Origin   
 2️⃣ Route    
 3️⃣ Flight Duration   
@@ -82,11 +85,11 @@ is_weekend, booking time pattern, total extra services requested, popular flight
 5️⃣ Total Extra Services Requested   
 
 
-## 🚀 Business Recommendations & Actionable Insights
+## 🚀 Business Recommendations & Actionable Insights   
 
-💡 Marketing Strategy: Focus advertising efforts on top booking origins & popular routes.
-💡 Customer Experience: Address issues related to flight delays and seat comfort based on customer feedback.
-💡 Revenue Boost: Encourage customers to purchase extra services by optimizing pricing strategies.
+💡 Marketing Strategy: Focus advertising efforts on top booking origins & popular routes.    
+💡 Customer Experience: Address issues related to flight delays and seat comfort based on customer feedback.   
+💡 Revenue Boost: Encourage customers to purchase extra services by optimizing pricing strategies.   
 
 
 
