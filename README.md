@@ -57,11 +57,11 @@ Key Features: num_passengers, trip_type, route, booking_origin, flight_duration,
 
 **🔹 Data Processing & Feature Engineering:**
 
-✅ Created new features:
+✅ Created new features:    
 
-is_weekend, booking time pattern, total extra services requested, popular flight routes, passenger count
-✅ Handled categorical variables with label encoding & manual mapping.
-✅ Applied scaling & SMOTE for class balancing.
+is_weekend, booking time pattern, total extra services requested, popular flight routes, passenger count    
+✅ Handled categorical variables with label encoding & manual mapping.    
+✅ Applied scaling & SMOTE for class balancing.    
 
 
 **🔹 Model Performance:**
@@ -75,11 +75,11 @@ is_weekend, booking time pattern, total extra services requested, popular flight
 **🔹 Key Insights:**
 
 📌 Top 5 Influencing Features:
-1️⃣ Booking Origin
-2️⃣ Route
-3️⃣ Flight Duration
-4️⃣ Length of Stay
-5️⃣ Total Extra Services Requested
+1️⃣ Booking Origin   
+2️⃣ Route    
+3️⃣ Flight Duration   
+4️⃣ Length of Stay   
+5️⃣ Total Extra Services Requested   
 
 
 ## 🚀 Business Recommendations & Actionable Insights
