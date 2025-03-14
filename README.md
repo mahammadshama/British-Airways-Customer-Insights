@@ -22,9 +22,9 @@ This job simulation involved working as a Data Scientist at British Airways, ana
 
 **🔹 Steps Performed:**
 
-✅ Scraped customer reviews using BeautifulSoup.
-✅ Cleaned text by removing stopwords, lemmatization, and handling missing values.
-✅ Sentiment Analysis:
+✅ Scraped customer reviews using BeautifulSoup.   
+✅ Cleaned text by removing stopwords, lemmatization, and handling missing values.    
+✅ Sentiment Analysis:    
 
 Positive Sentiment: 759 mentions
 
