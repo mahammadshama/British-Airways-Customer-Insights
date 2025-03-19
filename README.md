@@ -1,9 +1,5 @@
-# British-Airways-Customer-Insights
-Analyzing customer reviews and booking data for British Airways to provide acctionable insights using NLP and machine learning.
-Here’s a well-structured README.md for your British Airways Customer Insights project.
 
 
----
 
 # British Airways Customer Insights
 
